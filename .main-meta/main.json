@@ -37,7 +37,7 @@
             }
         },
         "author": "Henrik Nyholm",
-        "subcategories": ["MCC",
+        "subcategories": [
 			[
                "Peripherals", "OPAMP"
             ],
